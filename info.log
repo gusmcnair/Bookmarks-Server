@@ -52,3 +52,9 @@
 {"message":"card with id 77 deleted","level":"info"}
 {"message":"card with id 77 deleted","level":"info"}
 {"message":"Bookmark with that id not found.","level":"error"}
+{"message":"unauthorized request to path /","level":"error"}
+{"message":"unauthorized request to path /","level":"error"}
+{"message":"unauthorized request to path /articles/2","level":"error"}
+{"message":"unauthorized request to path /articles/2","level":"error"}
+{"message":"unauthorized request to path /articles/2","level":"error"}
+{"message":"unauthorized request to path /articles/2","level":"error"}
