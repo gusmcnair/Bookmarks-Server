@@ -15,7 +15,7 @@ app.use(morgan(morganOption))
 app.use(helmet())
 app.use(cors())
 
-app.use('/bookmarks', bookmarksRouter)
+app.use('/api/bookmarks', bookmarksRouter)
 
 app.use(function errorHandler(error, req, res, next) {
   let response
